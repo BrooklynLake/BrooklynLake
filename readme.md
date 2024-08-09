@@ -9,7 +9,7 @@ Currently Learning [현재 배우는 것]: Java, SQL, React, JPA, SpringBoot
 진행중인 Team Project : Ah-him-mo-yak LMS Project
 <br><br><br><br><br><br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&height=150&color=gradient&text=DEV_%20Jay%20Kim&animation=fadeIn&section=footer&fontSize=30&fontAlign=25&fontAlignY=50&descAlign=50" align ="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&height=50&color=gradient&text=DEV_%20Jay%20Kim&animation=fadeIn&section=footer&fontSize=20&fontAlign=10&fontAlignY=50&descAlign=50" align ="center">
 
 <!--
 **BrianLakeKim/BrianLakeKim** is a ✨ *special* ✨ repository because its `README.md` (this file) appears on your GitHub profile.
