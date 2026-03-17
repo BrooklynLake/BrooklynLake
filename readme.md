@@ -6,7 +6,6 @@
 <br>
 Currently Learning [현재 배우는 것]: Java, SQL, React, JPA, SpringBoot
 <br>
-진행중인 Team Project : Ah-him-mo-yak LMS Project
 <br><br><br><br><br><br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=soft&height=50&color=gradient&text=DEV_%20Jay%20Kim&animation=fadeIn&section=footer&fontSize=20&fontAlign=10&fontAlignY=50&descAlign=50" align ="center">
