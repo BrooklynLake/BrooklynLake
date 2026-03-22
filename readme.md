@@ -4,7 +4,7 @@
 # Jay Kim
 
 <br>
-Currently Learning [현재 배우는 것]: Java, SQL, React, JPA, SpringBoot
+안녕하세요 Jay Kim 입니다
 <br>
 <br><br><br><br><br><br><br>
 
